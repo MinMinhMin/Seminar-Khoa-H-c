@@ -1,1 +1,1 @@
-A presentation reviewing 'Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research
+# A presentation reviewing 'Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research
